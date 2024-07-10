@@ -12,21 +12,17 @@ The data set used in this project includes:
 - Rental data
 - Inventory data
 
-The data was provided by the fictional company Rockbuster Stealth for the purpose of this analysis.
+The data was provided by Career Foundry for the purpose of this analysis.
 
 ## Folder Structure
 The repository contains the following folders:
 - **SQL**: Contains SQL scripts used for data analysis.
-- **Data**: Contains the data sets used in the analysis.
-- **Reports**: Contains the final reports and presentations.
+- **Data**: Contains the data dictionary.
+- **Reports**: Contains the final presentation.
 
 ## SQL Analysis
 The SQL analysis focuses on querying the database to extract relevant information and answer key business questions. The SQL scripts include:
 - Data extraction
 - Data aggregation
 - Data transformation
-
-## Additional Resources
-- [Achievement 3 Project Brief](link_to_achievement_3_project_brief)
-
 
