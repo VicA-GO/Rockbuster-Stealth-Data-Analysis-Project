@@ -1,2 +1,32 @@
-# Rockbuster-Stealth-Data-Analysis-Project
-Rockbuster Stealth LLC is a fictional movie rental company planning to launch an online video rental service to compete with Netflix and Amazon Prime. This project involves analyzing existing data to inform the launch strategy, including data cleaning, exploratory analysis, and generating business insights.
+# Rockbuster Stealth Data Analysis Project
+
+## Overview
+Rockbuster Stealth LLC is a fictional movie rental company planning to launch an online video rental service to compete with streaming giants like Netflix and Amazon Prime. This project involves analyzing Rockbuster's existing data to inform the launch strategy, including data cleaning, conducting exploratory data analysis, and generating insights to support business decisions across various departments.
+
+## Project Description
+The main objective of this project is to analyze the data provided by Rockbuster Stealth to derive actionable insights that can help the company successfully launch its online video rental service. The analysis covers various aspects such as customer behavior, rental patterns, and inventory management.
+
+## Data Set
+The data set used in this project includes:
+- Customer data
+- Rental data
+- Inventory data
+
+The data was provided by the fictional company Rockbuster Stealth for the purpose of this analysis.
+
+## Folder Structure
+The repository contains the following folders:
+- **SQL**: Contains SQL scripts used for data analysis.
+- **Data**: Contains the data sets used in the analysis.
+- **Reports**: Contains the final reports and presentations.
+
+## SQL Analysis
+The SQL analysis focuses on querying the database to extract relevant information and answer key business questions. The SQL scripts include:
+- Data extraction
+- Data aggregation
+- Data transformation
+
+## Additional Resources
+- [Achievement 3 Project Brief](link_to_achievement_3_project_brief)
+
+
